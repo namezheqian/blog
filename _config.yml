@@ -81,7 +81,7 @@ gitalk:
   clientSecret: 958148f287fda9f669b6fe2f941fa815d5b0a4fd
   repo: blog
   owner: namezheqian
-  proxy: https://cors-anywhere.herokuapp.com/https://github.com/login/oauth/access_token
+  proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token
 
 # 输入Google Analytics web tracking code
 google_analytics:
